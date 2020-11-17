@@ -24,6 +24,7 @@ import { HeroSearchComponent } from './hero-search/hero-search.component';
     MessagesComponent,
     DashboardComponent,
     HeroSearchComponent
+
   ],
   imports: [
     BrowserModule,
